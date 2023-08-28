@@ -18,7 +18,7 @@ SpookSync is a Halloween-themed card matching game that brings together the exci
 
 ## How to Play
 
-1. Visit the [SpookSync Game Page](https://your-game-link-here) and allow any necessary permissions for audio playback.
+1. Visit the [SpookSync Game Page](https://spoosyncworld.netlify.app/) and allow any necessary permissions for audio playback.
 
 2. Click on cards to flip them over and reveal the hidden images.
 
